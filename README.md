@@ -1,6 +1,8 @@
 # PCB files for breakout board for Analog 2-axis Thumb Joystick with Select Button
 
-<a href="http://www.adafruit.com/products/512"><img src="assets/image.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/512"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop
+</a>
 
 This mini-kit makes it easy to mount a PSP/Xbox-like thumb joystick to your project. The thumbstick is an analog joystick - more accurate and sensitive than just 'directional' joysticks - with a 'press in to select' button. Since it's analog, you'll need two analog reading pins on your microcontroller to determine X and Y. Having an extra digital input will let you read the switch.
 
